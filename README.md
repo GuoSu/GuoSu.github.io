@@ -1,32 +1,43 @@
-# About
+# NexT
 
-This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
+> 精于心，简于形
 
-You can visit [here](http://gaohaoyang.github.io) to see this blog.
+<a href="http://notes.iissnan.com" target="_blank">在线预览 Preview</a> | <a href="http://theme-next.iissnan.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
----
+[![Join the chat at https://gitter.im/iissnan/hexo-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
-
-博客访问地址：[点击这里](http://gaohaoyang.github.io)
-
-**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-
-<!--
-
-## 被引用信息
-
-使用了我的模板并写明来源的人：   
-
-* [dreamholy](http://dreamholy.github.io/)
-
-没有注明来源的人：
-
-* [yangshuailing](http://yangshuailing.github.io/com/)
-* [huapu728](http://huapu728.github.io/)
-* [greatbuger](http://greatbuger.github.io/) 
+![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
 
 
--->
+## 浏览器支持 Browser support
+
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
 
+## 贡献 Contributing
+
+接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的`Pull Request`。
+
+Any types of contribution are welcome. Thanks.
+
+## 开发 Development
+
+NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
+
+NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+
+## [开发历史 Changelog](https://github.com/iissnan/hexo-theme-next/wiki/Changelog)
+
+[![hexo-image]][hexo-url]
+[![bower-image]][bower-url]
+[![jquery-image]][jquery-url]
+[![velocity-image]][velocity-url]
+
+[hexo-image]: http://img.shields.io/badge/Hexo-2.4+-2BAF2B.svg?style=flat-square
+[hexo-url]: http://hexo.io
+[bower-image]: http://img.shields.io/badge/Bower-*-2BAF2B.svg?style=flat-square
+[bower-url]: http://bower.io
+[jquery-image]: https://img.shields.io/badge/jquery-2.1-2BAF2B.svg?style=flat-square
+[jquery-url]: http://jquery.com/
+[velocity-image]: https://img.shields.io/badge/Velocity-1.2-2BAF2B.svg?style=flat-square
+[velocity-url]: http://julian.com/research/velocity/
